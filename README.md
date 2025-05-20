@@ -12,7 +12,7 @@ First you create a folder of your choice (preferably "Bot-git") and install dote
 
 Now you put it inside a whole folder with the folder containing your bot code and bot data (assuming these are already uploaded and connected to a git repository). It should look like this for example:
 
-![image](https://github.com/user-attachments/assets/b6669754-9581-49b1-ad20-42ea4dafa322)
+![image](https://github.com/user-attachments/assets/b516b4c5-9406-47ae-914d-1e854d6be8b3)
 
 Next important step: you need to have the "git-updater.js" file inside of the bot code folder, which is essential for the files to work.
 
