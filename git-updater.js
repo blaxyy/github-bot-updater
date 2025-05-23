@@ -5,7 +5,7 @@ require('dotenv').config();
 const os = require('os');
 
 const currentHost = os.hostname();
-const allowedHost = 'ncpi';
+const allowedHost = 'your host name';
 
 const { syncCodeRepo } = require('../path-to/git-code');
 const { syncDataRepo } = require('../path-to/git-data');
