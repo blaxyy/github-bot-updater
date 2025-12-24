@@ -1,6 +1,6 @@
 # github-bot-updater
 
-Hello everyone, this is a easy backup and update setup for your discord bot that I have been working on first for myself, but now I decided to share it to everyone. The same as this process helps me maintain my bot up-to-date, the same way it should do it for you too. This updater can update in different periods of time, so feel free to change it.
+Github-bot-updater is a easy backup and update setup for your discord bot that I have been working on first for myself, but now I decided to share it to everyone. The same as this process helps me maintain my bot up-to-date, the same way it should do it for you too. This updater can update in different periods of time, so feel free to change it.
 
 ## **Disclaimer**
 Before we continue in the short explanation of this updater/code I want to warn you **to not give away your passwords, tokens etc on here.** If you really want to follow this guide, **I recommend to you creating a throwaway GitHub Account** with all your code/data stored in a private repository **with a password noone can guess** (best case scenario if you use a generated password). **If you share any data it's not my responsibility.**
